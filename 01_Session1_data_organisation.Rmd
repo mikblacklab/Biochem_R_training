@@ -29,8 +29,20 @@ URL: https://github.com/mikblacklab/Biochem_R_training
      - each other
  - Etherpad
  - Introducing R & RStudio
+ - Data organisation (James)
+ - Importing data into R (James)
 
 ## Why are you here?
+
+ - Reason 1: we are offering a workshop
+ - Reason 2: you think you need to know the things we are teaching
+ - Motivation behind both:
+     - our discplines are becoming much more "data-centric"
+     - relevant analytic tools are always evolving, so are not available in canned, 
+     easy-to-use software applications
+     - there is movement internationally towards increasing the "digital literacy" of
+     early-career researchers through formal training workshops outside the current 
+     academic curriculum.
 
 ## Introductions: instructors 
 
@@ -43,6 +55,13 @@ In order of appearance:
  - Elizabeth Permina
  
 ## Introductions: the material
+
+ - We will be teaching you very basic concepts in data organisation, manipulation and visualisation
+ - We are using the R language, which we interact with through the RStudio interface
+ - Some of the material we are using has come from the following sources:
+    - Data Carperntry: http://www.datacarpentry.org/
+    - Software Carpentry: http://software-carpentry.org/
+ - Both of the above sites are excellent sources of information if you are looking to improve your ability to perform basic data analysis, or get more into programmming.
 
 ## Introductions: each other
 
