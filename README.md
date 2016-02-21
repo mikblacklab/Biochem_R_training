@@ -12,7 +12,7 @@ Monday:
  - Session 1 - 9:30am-12:30pm - R/RStudio overview, data organisation, basic data import (Mik/James)
      -  Mik's slides: https://rawgit.com/mikblacklab/Biochem_R_training/master/01_Session1_data_organisation.html
      -  James's slides: https://rawgit.com/mikblacklab/Biochem_R_training/master/01_Session2_excel_and_import.html
-     -  Data carpentry spreadsheets: http://www.datacarpentry.org/spreadsheet-ecology-lesson/
+     -  Data carpentry lesson for spreadsheets: http://www.datacarpentry.org/spreadsheet-ecology-lesson/
  - Session 2 - 1:30pm-4:30pm - Introduction to R (Murray/Tanya/Tom)
 
 Tuesday:
