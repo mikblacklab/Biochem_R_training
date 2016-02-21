@@ -85,4 +85,33 @@ In order of appearance:
 
 ## Introducing R
 
-## Introducing RStudio
+ - R is a programming language for statistical analysis
+  - based on the S language written by John Chambers in the 1980s.
+  - developed under an open source (i.e., free) model at the University of Auckland by Ross Ihaka and Robert Gentleman
+ - Rapidly grew to be the prefered tool for statisticians around the world
+    - international team of core developers
+    - thousands of contributing programmers from all over the world
+ - Now used for data analysis in many fields.
+
+## The original R's
+
+<center><img src="Pics/RandR.png" height="400"></center>
+
+http://www.nytimes.com/2009/01/07/technology/business-computing/07program.html?pagewanted=all
+
+
+## The R project
+
+<center><img src="Pics/rproject.png" height="450"></center>
+
+https://www.r-project.org/
+
+## Free is good
+
+<center><img src="Pics/ruse-2.png" height="33"></center>
+<BR>
+<center><img src="Pics/ruse-1.png" height="190"></center>
+<BR>
+
+http://www.revolutionanalytics.com/content/r-most-powerful-and-most-widely-used-statistical-software
+
