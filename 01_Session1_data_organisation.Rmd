@@ -1,6 +1,6 @@
 ---
 title: "Biochemistry R training"
-subtitle: "Session 1: Overview, R/RStudio, data organistaion & import"
+subtitle: "Session 1: R/RStudio, data organisation"
 author: "Mik Black<BR>Department of Biochemistry"
 date: "22 February 2016"
 output: ioslides_presentation
@@ -37,7 +37,7 @@ URL: https://github.com/mikblacklab/Biochem_R_training
  - Reason 1: we are offering a workshop
  - Reason 2: you think you need to know the things we are teaching
  - Motivation behind both:
-     - our discplines are becoming much more "data-centric"
+     - our disciplines are becoming much more "data-centric"
      - relevant analytic tools are always evolving, so are not available in canned, 
      easy-to-use software applications
      - there is movement internationally towards increasing the "digital literacy" of
@@ -59,9 +59,9 @@ In order of appearance:
  - We will be teaching you very basic concepts in data organisation, manipulation and visualisation
  - We are using the R language, which we interact with through the RStudio interface
  - Some of the material we are using has come from the following sources:
-    - Data Carperntry: http://www.datacarpentry.org/
+    - Data Carpentry: http://www.datacarpentry.org/
     - Software Carpentry: http://software-carpentry.org/
- - Both of the above sites are excellent sources of information if you are looking to improve your ability to perform basic data analysis, or get more into programmming.
+ - Both of the above sites are excellent sources of information if you are looking to improve your ability to perform basic data analysis, or get more into programming.
 
 ## Introductions: each other
 
@@ -76,7 +76,7 @@ In order of appearance:
  editing within a browser.
      - [Workshop Etherpad link](https://public.etherpad-mozilla.org/p/2016-02-22_Otago_Biochem)
  - We can use Etherpad during the workshop for lots of things:
-     - collecting attendence info
+     - collecting attendance info
      - taking notes
      - asking questions
      - sending information
@@ -86,11 +86,11 @@ In order of appearance:
 ## Introducing R
 
  - R is a programming language for statistical analysis
-  - based on the S language written by John Chambers in the 1980s.
-  - developed under an open source (i.e., free) model at the University of Auckland by Ross Ihaka and Robert Gentleman
- - Rapidly grew to be the prefered tool for statisticians around the world
-    - international team of core developers
-    - thousands of contributing programmers from all over the world
+     - based on the S language written by John Chambers in the 1980s.
+     - developed under an open source (i.e., free) model at the University of Auckland by Ross Ihaka and Robert Gentleman
+ - Rapidly grew to be the preferred tool for statisticians around the world
+     - international team of core developers
+     - thousands of contributing programmers from all over the world
  - Now used for data analysis in many fields.
 
 ## The original R's
@@ -106,12 +106,89 @@ http://www.nytimes.com/2009/01/07/technology/business-computing/07program.html?p
 
 https://www.r-project.org/
 
-## Free is good
+## Getting R (locally)
 
-<center><img src="Pics/ruse-2.png" height="33"></center>
+<center><img src="Pics/nzcran.png" height="420"></center>
+
+<BR>
+http://cran.stat.auckland.ac.nz/
+
+## R is popular...
+
+<center><img src="Pics/ruse-2.png" height="30"></center>
 <BR>
 <center><img src="Pics/ruse-1.png" height="190"></center>
 <BR>
 
 http://www.revolutionanalytics.com/content/r-most-powerful-and-most-widely-used-statistical-software
 
+## Why are we teaching R?
+
+ - R provides an attractive and (somewhat) simple platform for data manipulation and analysis:
+     - Free Open Source Software (FOSS) from an international developer community
+     - Hugely extendable through downloadable packages
+     - For a lot of people, R is all they will ever need for data manipulation, 
+     analysis and visualisation
+ - R also provides a good environment for learning basic (and advanced) programming concepts.
+
+## Introducing RStudio
+
+The free RStudio application provides an "integrated development environment" (IDE) for working in R.
+
+<center><img src="Pics/rstudio-web.png" height="400"></center>
+
+https://www.rstudio.com/
+
+## What does it look like?
+
+<center><img src="Pics/rstudio-windows.png" height="500"></center>
+
+## Getting started with R
+
+ - Open RStudio and spend some time getting familiar with the layout:
+      - Console: type commands here
+      - Source: save your code here
+      - Environment/History: session info
+      - Files/Plots/Packages/Help/Viewer: everything else  :)
+ - You can write commands/code in the source pane, and then "submit" it (i.e., run it)
+ in the console by hitting `Ctrl+Enter`.
+ - Comments start with `#` and are ignored by R
+ 
+## Getting started with R
+
+
+```{r}
+# This is a comment
+
+# This adds 3 + 5
+3 + 5
+
+# This adds 3 + 2 and assigns it to an object called "a"
+a = 3 + 2
+
+# This shows the value of "a"
+a
+```
+
+## Getting started with R
+
+```{r}
+# This also adds 3 + 2 and assigns it to an object called "a"
+a <- 3 + 5
+a
+
+# This takes the object "a", and adds 10 to it
+a + 10
+
+# This calculates the square root of "a"
+# sqrt is called a "function" - we'll use functions a lot
+sqrt(a)
+```
+
+## Lets do something useful
+
+ - While it is fun to use R as a giant calculator, that's not going to help (much) with your research.
+ - We want to do some data analysis in R
+      - First, we need data
+      - Good, clean, well-organised data
+ - Go James, go!
