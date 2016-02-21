@@ -32,11 +32,37 @@ URL: https://github.com/mikblacklab/Biochem_R_training
 
 ## Why are you here?
 
-## Introductions
+## Introductions: instructors 
 
+In order of appearance:
+
+ - Mik Black
+ - James Boocock 
+ - Murray Cadzow 
+ - Tom Kelly 
+ - Elizabeth Permina
+ 
+## Introductions: the material
+
+## Introductions: each other
+
+ - Show of hands
+     - where are people from?
+     - what are you working on?
+ - Have a chat to your neighbours
+ 
 ## Etherpad
 
-https://public.etherpad-mozilla.org/p/2016-02-22_Otago_Biochem
+ - Etherpad is a tool from Mozilla that allows real-time collaborative document 
+ editing within a browser.
+     - [Workshop Etherpad link](https://public.etherpad-mozilla.org/p/2016-02-22_Otago_Biochem)
+ - We can use Etherpad during the workshop for lots of things:
+     - collecting attendence info
+     - taking notes
+     - asking questions
+     - sending information
+ - You can set up your own Etherpad (note that anyone with the link can see it) via Mozilla:
+     - https://public.etherpad-mozilla.org/
 
 ## Introducing R
 
