@@ -14,6 +14,8 @@ Monday:
      -  James's slides: https://rawgit.com/mikblacklab/Biochem_R_training/master/01_Session2_excel_and_import.html
      -  Data carpentry lesson for spreadsheets: http://www.datacarpentry.org/spreadsheet-ecology-lesson/
  - Session 2 - 1:30pm-4:30pm - Introduction to R (Murray/Tanya/Tom)
+     -  Data carpentry lesson sourced from: https://github.com/datacarpentry/R-ecology
+     -  Data carpentry materials available here http://www.datacarpentry.org/R-ecology/
 
 Tuesday:
  - Session 3 - 9:30am-12:30pm - Data manipulation & visualisation (Murray/Elizabeth/Tanya)
