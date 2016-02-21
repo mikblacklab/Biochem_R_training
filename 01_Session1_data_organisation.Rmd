@@ -6,27 +6,38 @@ date: "22 February 2016"
 output: ioslides_presentation
 ---
 
-## R Markdown
+## Overview - workshop
 
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+URL: https://github.com/mikblacklab/Biochem_R_training
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+ - Monday Session 1 - 9:30am-12:30pm (Mik/James)
+     - R/RStudio overview
+     - Data organisation & import 
+ - Monday Session 2 - 1:30pm-4:30pm (Murray/Tom) 
+     - Introduction to R 
+ - Tuesday Session 3 - 9:30am-12:30pm (Murray/Elizabeth)
+     - Data manipulation & visualisation 
+ - Tuesday Session 4 - 1:30pm-4:30pm (Mik/James)
+     - Reproducible research with Rmarkdown
 
-## Slide with Bullets
+## Overview - session 1
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+ - Why are you here?
+ - Introductions 
+     - instructors
+     - material 
+     - each other
+ - Etherpad
+ - Introducing R & RStudio
 
-## Slide with R Code and Output
+## Why are you here?
 
-```{r}
-summary(cars)
-```
+## Introductions
 
-## Slide with Plot
+## Etherpad
 
-```{r, echo=FALSE}
-plot(cars)
-```
+https://public.etherpad-mozilla.org/p/2016-02-22_Otago_Biochem
 
+## Introducing R
+
+## Introducing RStudio
