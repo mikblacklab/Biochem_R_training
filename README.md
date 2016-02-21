@@ -8,6 +8,7 @@ Location: Biochemistry Seminar Room (231 - used to be 228).
 
 Monday:
  - Session 1 - 9:30am-12:30pm - R/RStudio overview, data organisation, basic data import (Mik/James)
+     -  Mik's slides: https://rawgit.com/mikblacklab/Biochem_R_training/master/01_Session1_data_organisation.html
  - Session 2 - 1:30pm-4:30pm - Introduction to R (Murray/Tom)
 
 Tuesday:
