@@ -6,6 +6,8 @@ Repository for introductory R training being run in the Department of Biochemist
 
 Location: Biochemistry Seminar Room (231 - used to be 228).
 
+Etherpad link: https://public.etherpad-mozilla.org/p/2016-02-22_Otago_Biochem
+
 Monday:
  - Session 1 - 9:30am-12:30pm - R/RStudio overview, data organisation, basic data import (Mik/James)
      -  Mik's slides: https://rawgit.com/mikblacklab/Biochem_R_training/master/01_Session1_data_organisation.html
