@@ -16,9 +16,73 @@ Today, we are going to talk about:
   - Basic quality control
   - Exporting data from spreadsheets
 
-By following these lessons developed by data carpentry:
+We are going to follow these lessons developed by data carpentry:
 http://www.datacarpentry.org/spreadsheet-ecology-lesson/00-intro.html
 
+## R data wrangling
+
+###Benefits
+
+  - Needed for large datasets too big for excel e.g Sequencing data
+  - Can automate the quality control procedure.
+  - Reproducible.
+  
+###Downsides
+
+  - Pre-formatting required
+  - Excel sometimes better for simple wrangling
+  
+You will learn more about these possibilities this afternoon!
+
 ## Importing data into R.
+
+```{r}
+  # read in the data file
+  setwd("~/Biochem_R_training/data/")
+  dat = read.csv("survey_data_spreadsheet_messy_fixed.csv",header=T)
+  # Summarise some columns
+  summary(dat$Sex)
+  summary(dat$Weight)
+```
+
+
+## Visualise your data
+
+```{r}
+  # Hmmm let's see what plot does with weight, not that useful.
+  plot(dat$Weight)
+```
+
+## Visualise your data
+
+```{r}
+  # A histogram is what we want
+  hist(dat$Weight, breaks=10)
+
+```
+
+## Plotting variables against each other
+
+```{r}
+  # Let's see the weight by species.
+  # you can clearly see that DS is much heavier on average.
+  plot(dat$Weight ~ dat$Species)
+```
+
+## Plotting variables against each other
+
+```{r}
+  
+  # What about the relationship between plot and weight
+  plot(dat$Weight ~ dat$Plot)
+
+```
+
+## Box and whisker
+
+```{r}
+  # We can make R give us what we want.
+  boxplot(dat$Weight ~ dat$Plot)
+```
 
 
