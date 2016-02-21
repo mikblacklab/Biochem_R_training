@@ -19,12 +19,17 @@ Today, we are going to talk about:
 We are going to follow these lessons developed by data carpentry:
 http://www.datacarpentry.org/spreadsheet-ecology-lesson/00-intro.html
 
-## URL for lesson files
+## URL for the lesson files.
+
+Follow the link below.
+
+```bash
+https://goo.gl/fqUAXP
 
 ```
+View raw
 
-  
-```
+Extract the zip file
 
 ## R data wrangling
 
