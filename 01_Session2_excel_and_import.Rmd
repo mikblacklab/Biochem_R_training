@@ -24,8 +24,7 @@ http://www.datacarpentry.org/spreadsheet-ecology-lesson/00-intro.html
 Follow the link below.
 
 ```bash
-https://goo.gl/fqUAXP
-
+bit.ly/1oVvND1
 ```
 View raw
 
