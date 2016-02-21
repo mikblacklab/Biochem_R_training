@@ -13,9 +13,9 @@ URL: https://github.com/mikblacklab/Biochem_R_training
  - Monday Session 1 - 9:30am-12:30pm (Mik/James)
      - R/RStudio overview
      - Data organisation & import 
- - Monday Session 2 - 1:30pm-4:30pm (Murray/Tom) 
+ - Monday Session 2 - 1:30pm-4:30pm (Murray/Tom/Tanya) 
      - Introduction to R 
- - Tuesday Session 3 - 9:30am-12:30pm (Murray/Elizabeth)
+ - Tuesday Session 3 - 9:30am-12:30pm (Murray/Elizabeth/Tanya)
      - Data manipulation & visualisation 
  - Tuesday Session 4 - 1:30pm-4:30pm (Mik/James)
      - Reproducible research with Rmarkdown
@@ -51,8 +51,10 @@ In order of appearance:
  - Mik Black
  - James Boocock 
  - Murray Cadzow 
+ - Tanya Flynn
  - Tom Kelly 
  - Elizabeth Permina
+
  
 ## Introductions: the material
 
