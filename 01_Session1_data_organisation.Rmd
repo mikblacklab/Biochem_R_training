@@ -1,6 +1,6 @@
 ---
 title: "Biochemistry R training"
-subtitle: "Session 1: R/RStudio, data organisation"
+subtitle: "Session 1: R/RStudio"
 author: "Mik Black<BR>Department of Biochemistry"
 date: "22 February 2016"
 output: ioslides_presentation

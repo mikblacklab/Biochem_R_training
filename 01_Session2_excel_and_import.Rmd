@@ -1,0 +1,24 @@
+---
+title: "Biochemistry R training"
+subtitle: "Session 1a: Data organisation in Excel"
+author: "James Boocock<BR>Department of Biochemistry"
+date: "22 February 2016"
+output: ioslides_presentation
+---
+
+## Data organisation.
+
+Today, we are going to talk about:
+
+  - Good data entry practices
+  - How to avoid common formatting mistakes
+  - Dates
+  - Basic quality control
+  - Exporting data from spreadsheets
+
+By following these lessons developed by data carpentry:
+http://www.datacarpentry.org/spreadsheet-ecology-lesson/00-intro.html
+
+## Importing data into R.
+
+
