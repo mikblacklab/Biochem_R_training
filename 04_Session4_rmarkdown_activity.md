@@ -39,3 +39,13 @@ and the data file "surveys.csv"
 http://files.figshare.com/1919744/surveys.csv
 
 This contains some of the commands that you used in the ggplot lesson.
+
+## Your challenge
+
+Use the Rmarkdown file you created in R to figure out how to turn the code 
+in `surveys.R` into a .Rmd file containing a mix of text and code.
+
+Some hints:
+ - you'll need to add the correct header information (title, author etc)
+ - to start with you can just wrap the R code in `\`\`\`{r}` and `\`\`\``
+to get it to run as one large chunk.
