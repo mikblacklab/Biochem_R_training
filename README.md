@@ -26,6 +26,7 @@ Tuesday:
      - Slides for Rmarkdown intro: https://github.com/Reproducible-Science-Curriculum/rr-literate-programming/raw/master/slides/lit-prog-slides/lit-prog-slides.pdf
      - Rmarkdown activity: https://github.com/mikblacklab/Biochem_R_training/blob/master/04_Session4_rmarkdown_activity.md
      - Project organization: https://github.com/Reproducible-Science-Curriculum/rr-init
+     - Markdown tutorial: http://markdowntutorial.com/
 
 ### Other information
 
