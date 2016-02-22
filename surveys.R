@@ -3,7 +3,7 @@ library(ggplot2)
 library(dplyr)
 
 # read in survey data
-surveys_raw <- read.csv("http://files.figshare.com/1919744/surveys.csv")
+surveys_raw <- read.csv("surveys.csv")
 
 # list variable names
 names(surveys_raw)

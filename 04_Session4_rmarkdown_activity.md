@@ -24,6 +24,18 @@ output will be incorporated into the HTML document!**
 This is just the beginning!  There is lots of additional formatting that
 can be applied - see the Markdown Quick Reference guide that is built
 into RStudio (click the "?" next to the "Knit HTML" buttin, and choose
-Markdown Quick Reference).
+"Markdown Quick Reference").
 
+## Now what?
 
+You're ready to create some cool analysis documents!
+
+Download the R file "surveys.R": 
+
+https://raw.githubusercontent.com/mikblacklab/Biochem_R_training/master/surveys.R
+
+and the data file "surveys.csv"
+
+http://files.figshare.com/1919744/surveys.csv
+
+This contains some of the commands that you used in the ggplot lesson.
