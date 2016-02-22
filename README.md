@@ -20,9 +20,10 @@ Monday:
 
 Tuesday:
  - Session 3 - 9:30am-12:30pm - Data manipulation & visualisation (Murray/Elizabeth/Tanya)
-  - Data capentry lesson for dplyr and visualisation: https://github.com/datacarpentry/R-ecology
-  - Data carpentry materials available here http://www.datacarpentry.org/R-ecology/
+     - Data capentry lesson for dplyr and visualisation: https://github.com/datacarpentry/R-ecology
+     - Data carpentry materials available here http://www.datacarpentry.org/R-ecology/
  - Session 4 - 1:30pm-4:30pm - Reproducible research with Rmarkdown (Mik/James)
+     - Slides for Rmarkdown intro: https://github.com/Reproducible-Science-Curriculum/rr-literate-programming/raw/master/slides/lit-prog-slides/lit-prog-slides.pdf
 
 ### Other information
 
