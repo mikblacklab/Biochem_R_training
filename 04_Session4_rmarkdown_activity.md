@@ -47,5 +47,11 @@ in `surveys.R` into a .Rmd file containing a mix of text and code.
 
 Some hints:
  - you'll need to add the correct header information (title, author etc)
- - to start with you can just wrap the R code in `\`\`\`{r}` and `\`\`\``
+ - to start with you can just wrap the R code in ```{r} and ```
 to get it to run as one large chunk.
+
+Once you've got it to run (and produce HTML output), start breaking the 
+code up into chunks, and add some text in between each code block (just 
+like in the Rmarkdown document that you automated created earlier).
+
+
