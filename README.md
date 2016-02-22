@@ -24,9 +24,9 @@ Tuesday:
      - Data carpentry materials available here http://www.datacarpentry.org/R-ecology/
  - Session 4 - 1:30pm-4:30pm - Reproducible research with Rmarkdown (Mik/James)
      - Slides for Rmarkdown intro: https://github.com/Reproducible-Science-Curriculum/rr-literate-programming/raw/master/slides/lit-prog-slides/lit-prog-slides.pdf
+     - Markdown tutorial: http://markdowntutorial.com/
      - Rmarkdown activity: https://github.com/mikblacklab/Biochem_R_training/blob/master/04_Session4_rmarkdown_activity.md
      - Project organization: https://github.com/Reproducible-Science-Curriculum/rr-init
-     - Markdown tutorial: http://markdowntutorial.com/
 
 ### Other information
 
