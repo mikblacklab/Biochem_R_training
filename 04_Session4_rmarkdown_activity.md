@@ -49,9 +49,16 @@ Some hints:
  - you'll need to add the correct header information (title, author etc)
  - to start with you can just wrap the R code in ```{r} and ```
 to get it to run as one large chunk.
+ - save your file as `surveys.Rmd`. R will complain, but just ignore the
+protests - the awesomeness cannot be stopped! 
 
 Once you've got it to run (and produce HTML output), start breaking the 
 code up into chunks, and add some text in between each code block (just 
 like in the Rmarkdown document that you automated created earlier).
+
+Have a look at the Markdown Quick Reference to get some formatting ideas:
+ - make some bullet points (plain, and numeric!)
+ - make some *italic text* and some **bold text**
+ - find a picture on the internet, and add it to your document as a link
 
 
