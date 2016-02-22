@@ -21,7 +21,9 @@ process the Rmarkdown file, and create HTML output.
  - The text will be nicely formatted, the code will be run, **and the 
 output will be incorporated into the HTML document!**
 
-
-
+This is just the beginning!  There is lots of additional formatting that
+can be applied - see the Markdown Quick Reference guide that is built
+into RStudio (click the "?" next to the "Knit HTML" buttin, and choose
+Markdown Quick Reference).
 
 
