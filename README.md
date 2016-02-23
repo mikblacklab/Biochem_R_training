@@ -8,6 +8,10 @@ Location: Biochemistry Seminar Room (231 - used to be 228).
 
 Etherpad link: https://public.etherpad-mozilla.org/p/2016-02-22_Otago_Biochem
 
+Pre-workshop survey link: https://docs.google.com/forms/d/10-ZO8zuR0pJ6FQroQauUticrcsJYtEH5ySgGBIey7mE/viewform?c=0&w=1&usp=mail_form_link
+    
+Post-workshop survey link: https://docs.google.com/forms/d/1HFO8WYkg4QvyQnV79h_8exPo6Lve1SHJjKSMLNCBeT8/viewform?c=0&w=1&usp=mail_form_link    
+
 Monday:
  - Session 1 - 9:30am-12:30pm - R/RStudio overview, data organisation, basic data import (Mik/James)
      -  Mik's slides: https://rawgit.com/mikblacklab/Biochem_R_training/master/01_Session1_data_organisation.html
